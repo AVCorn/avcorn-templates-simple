@@ -1,6 +1,6 @@
 # AVCorn Simple Template
 
-![Template Preview](assets/images/previews/preview-lg.png "Marketing Design Preview")
+![Template Preview](assets/images/previews/preview-lg.png "Simple Design Preview")
 
 A general template with a simple theme.
 
